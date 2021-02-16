@@ -1,0 +1,4 @@
+#ErrorDocument 404  http://localhost:8083/ControlVenta/404.php
+
+
+ErrorDocument 404  /ControlVenta/404.php
