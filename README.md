@@ -1,8 +1,7 @@
 # ControlVentaPHP
 Proyecto personal para el control de ventas con PHP, Ajax y MYSQL
-
-![Captura de pantalla (1258)](https://user-images.githubusercontent.com/76067475/110004277-40b6aa00-7ce5-11eb-87d5-dc0f3b231ee5.png)
 ![Captura de pantalla (1247)](https://user-images.githubusercontent.com/76067475/110004291-43b19a80-7ce5-11eb-8a49-c1e0cd91df59.png)
+![Captura de pantalla (1258)](https://user-images.githubusercontent.com/76067475/110004277-40b6aa00-7ce5-11eb-87d5-dc0f3b231ee5.png)
 ![Captura de pantalla (1248)](https://user-images.githubusercontent.com/76067475/110004304-47ddb800-7ce5-11eb-8a34-444459cd8a67.png)
 ![Captura de pantalla (1249)](https://user-images.githubusercontent.com/76067475/110004308-47ddb800-7ce5-11eb-88af-ea5cc948b1ad.png)
 ![Captura de pantalla (1250)](https://user-images.githubusercontent.com/76067475/110004310-48764e80-7ce5-11eb-998e-6678774a7c10.png)
